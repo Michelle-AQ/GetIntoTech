@@ -1,3 +1,9 @@
 [submodule "PycharmProjects/GetIntoTech"]
 	path = PycharmProjects/GetIntoTech
 	url = git@github.com:Michelle-AQ/GetIntoTech.git
+[submodule "Documents/documents/skygetintotech2023"]
+	path = Documents/documents/skygetintotech2023
+	url = https://github.com/QA-Instructor/GetIntoTech.git
+[submodule "Documents/documents/getintotech"]
+	path = Documents/documents/getintotech
+	url = git@github.com:Michelle-AQ/GetIntoTech.git
