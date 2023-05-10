@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block main_content %}
+<!--anything here will go in line 17 of the layout.html page-->
+<p>Favourites</p>
+<ul>
+{% for item in michellelist %}
+    <li>{{item}}</li>
+    {% endfor %}
+</ul>
+
+<ol>
+{% for item in pamlist %}
+    <li>{{item}}</li>
+    {% endfor %}
+</ol>
+
+
+{% endblock %}

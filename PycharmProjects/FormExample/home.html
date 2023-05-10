@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Form</title>
+</head>
+<body>
+
+    { % extends "layout.html" %}
+    {% block body_content %}
+    <p>Welcome to our Add Person Page</p>
+    <p>This page contains a html form</p>
+
+        <div class="form"
+             <form method="POST" action=' '>
+                 {{ <form.hidden_tag() }}
+        <!--         stops CSRF attack 'third party attacks -->
+                 {{ form.first_name.label }} {{ form.first_name }}
+                 <br>
+                 {{ form.first_name.label }}  {{form.last_name }}
+                 <br>
+                 {{ form.submit }}
+             {{ message }}
+         </form>
+        </div>
+
+</body>
+</html>

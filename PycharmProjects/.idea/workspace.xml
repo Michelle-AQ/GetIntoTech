@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a0ae30-199b-433b-8692-9ca4c81a8051" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercise14/play_rps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10Homework/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise12/lotto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise12/lotto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise14/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise14/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise14/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise14/rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10Homework/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week10Homework/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week10Homework/static/styles/styles2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week10Homework/static/styles/styles2.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Week10Homework" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LhfjzRgDY8ilhUkk6cY0DVxDHz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/getintotech/PycharmProjects&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a0ae30-199b-433b-8692-9ca4c81a8051" name="Changes" comment="" />
+      <created>1676328373646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676328373646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

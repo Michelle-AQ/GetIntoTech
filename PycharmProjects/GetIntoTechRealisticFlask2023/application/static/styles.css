@@ -1,0 +1,10 @@
+body {
+    width: 90%
+    margin: auto;
+    background-color: lightblue;
+}
+
+footer {
+    text-align:center
+    color:gray
+}
